@@ -1,6 +1,7 @@
 import { Application, Assets, Container, Sprite } from 'pixi.js';
 
 (async () =>
+    
 {
     // Create a new application
     const app = new Application();
