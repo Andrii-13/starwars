@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center; /* Горизонтальне вирівнювання */
+  align-items: center; /* Вертикальне вирівнювання */
+  height: 100vh; /* Висота в'юпорта */
+  background-color: white; /* Фоновий колір для контрасту */
+}
